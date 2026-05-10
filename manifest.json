@@ -1,0 +1,8 @@
+{
+  "short_name": "Op de Vlucht",
+  "name": "Op de Vlucht – StukTV Stijl",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0b0b0b",
+  "background_color": "#0b0b0b"
+}
